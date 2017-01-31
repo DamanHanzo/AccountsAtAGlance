@@ -5,3 +5,8 @@ C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtA
 C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
 C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
 C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\obj\Debug\AccountsAtAGlance.Repository.csprojResolveAssemblyReference.cache
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\AccountsAtAGlance.Repository.dll.config
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\EntityFramework.dll
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\EntityFramework.xml
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountsAtAGlance.Repository\bin\Debug\EntityFramework.SqlServer.xml
