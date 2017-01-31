@@ -1,0 +1,5 @@
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb

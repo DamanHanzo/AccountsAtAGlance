@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance", "AccountAtAGlance\AccountAtAGlance.csproj", "{3316FE5A-AA14-45F5-B67B-F4F0BA7E443C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance.Model", "AccountAtAGlance.Model\AccountAtAGlance.Model.csproj", "{D2EEB749-DCFB-4527-9268-97DE1DF66852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance.Repository", "AccountAtAGlance.Repository\AccountAtAGlance.Repository.csproj", "{0BDFA1A0-A619-4806-9EC1-8799C9793BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3316FE5A-AA14-45F5-B67B-F4F0BA7E443C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3316FE5A-AA14-45F5-B67B-F4F0BA7E443C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3316FE5A-AA14-45F5-B67B-F4F0BA7E443C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3316FE5A-AA14-45F5-B67B-F4F0BA7E443C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EEB749-DCFB-4527-9268-97DE1DF66852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EEB749-DCFB-4527-9268-97DE1DF66852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EEB749-DCFB-4527-9268-97DE1DF66852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EEB749-DCFB-4527-9268-97DE1DF66852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDFA1A0-A619-4806-9EC1-8799C9793BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDFA1A0-A619-4806-9EC1-8799C9793BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDFA1A0-A619-4806-9EC1-8799C9793BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDFA1A0-A619-4806-9EC1-8799C9793BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
