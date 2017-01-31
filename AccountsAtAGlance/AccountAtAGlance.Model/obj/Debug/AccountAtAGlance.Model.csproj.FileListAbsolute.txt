@@ -1,0 +1,4 @@
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\dsingh\Documents\Training\GitTrackedProjs\AccountsAtAGlance\AccountsAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb

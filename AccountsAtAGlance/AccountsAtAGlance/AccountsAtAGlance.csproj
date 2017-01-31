@@ -162,11 +162,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Start\BundleConfig.cs" />
-    <Compile Include="App_Start\FilterConfig.cs" />
-    <Compile Include="App_Start\IdentityConfig.cs" />
-    <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -219,6 +214,16 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountAtAGlance.Model\AccountAtAGlance.Model.csproj">
+      <Project>{6561bda3-944d-4969-8a4e-7cbbf1e9089a}</Project>
+      <Name>AccountAtAGlance.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountsAtAGlance.Repository\AccountsAtAGlance.Repository.csproj">
+      <Project>{3011f1b6-fd76-446c-87e6-5b3c67af1750}</Project>
+      <Name>AccountsAtAGlance.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
