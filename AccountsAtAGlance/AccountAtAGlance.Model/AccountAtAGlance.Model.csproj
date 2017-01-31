@@ -45,6 +45,7 @@
     <Compile Include="DataPoint.cs" />
     <Compile Include="Exchange.cs" />
     <Compile Include="MarketIndex.cs" />
+    <Compile Include="MarketQuotes.cs" />
     <Compile Include="MarketsAndNews.cs" />
     <Compile Include="MutualFund.cs" />
     <Compile Include="OperationStatus.cs" />
