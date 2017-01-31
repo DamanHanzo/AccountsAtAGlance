@@ -42,9 +42,19 @@
   <ItemGroup>
     <Compile Include="BrokerageAccount.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="DataPoint.cs" />
+    <Compile Include="Exchange.cs" />
+    <Compile Include="MarketIndex.cs" />
+    <Compile Include="MarketsAndNews.cs" />
+    <Compile Include="MutualFund.cs" />
+    <Compile Include="OperationStatus.cs" />
     <Compile Include="Order.cs" />
+    <Compile Include="OrderType.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="Stock.cs" />
+    <Compile Include="TickerQuote.cs" />
     <Compile Include="WatchList.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
