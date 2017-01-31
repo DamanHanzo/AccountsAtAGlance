@@ -1,2 +1,3 @@
 # AccountsAtAGlance
-MVC EF Code First Project Using jQuery and Google Services
+
+Following PluralSight course: Making an application using ASP.NET MVC, EF CodeFirst, jQuery and Google Services
